@@ -1,1 +1,58 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@600&family=Space+Mono:wght@400;700&display=swap');
+
+/* HEADER */
+.header h1{
+    font-family: Inconsolata;
+    color: #333333;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+}
+
+/* MAIN */
+.texto h1{
+    font-family: Space Mono;
+    color: #333333;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+}
+
+.texto p{
+    font-family: Space Mono;
+    color: #4F4F4F;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+}
+
+.btn button{
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    color: #fff;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    width: 216px;
+    height: 68px;
+    background: #333333;
+}
+
+/* FOOTER */
+.footer span{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+}
