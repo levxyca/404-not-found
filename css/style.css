@@ -15,6 +15,7 @@
 
 .flex {
     display: flex;
+    align-items: center;
 }
 
 
@@ -65,7 +66,7 @@
 }
 
 .ilustracao img{
-    max-width: 100%;
+    max-width: 500px;
     display: block;
 }
 
